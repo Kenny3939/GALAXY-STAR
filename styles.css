@@ -1,0 +1,111 @@
+/* Estilos Generales */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo de la sección principal */
+.hero {
+    position: relative;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.3) 50%, rgba(0, 0, 0, 0) 100%), url('image.png');
+    height: 85vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+/* Título principal */
+.hero h1 {
+    font-size: 4em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+/* Botón de descarga */
+.hero .download-button {
+    background-color: #ff004c;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    font-size: 1.5em;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    text-transform: uppercase;
+}
+
+.hero .download-button:hover {
+    background-color: #ff3359;
+    transform: scale(1.1); /* Agrandar botón al pasar el cursor */
+}
+
+/* Estilo de la sección inferior (footer) */
+.footer-section {
+    background-color: #0e0e0e;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.1); /* Línea superior fina */
+}
+
+.footer-content {
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+.footer-content p {
+    margin: 0;
+}
+
+/* Estilo de la sección de Trailer */
+.trailer-section {
+    background-color: #111;
+    padding: 40px 20px;
+    text-align: center;
+    color: white;
+}
+
+.trailer-section h2 {
+    font-size: 3em;
+    margin-bottom: 30px;
+}
+
+.trailer-video {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.trailer-video iframe {
+    border-radius: 10px;
+    border: 2px solid #ff004c;
+}
+
+/* Estilo de la sección de información del grupo */
+.project-info {
+    background-color: #0e0e0e;
+    padding: 20px 0;
+    text-align: center;
+    color: white;
+}
+
+.project-info p {
+    font-size: 1.5em;
+    font-weight: 400;
+    margin: 0;
+}
