@@ -1,0 +1,119 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2024 08:53:31 at https://theme.madsparrow.me/most/?storefront=envato-elements +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://theme.madsparrow.me/most/?storefront=envato-elements -O1 "C:\Users\k\Downloads\Juego" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:53:55	Error: 	"Method Not Allowed" (405) at link https://theme.madsparrow.me/most/xmlrpc.php (from https://theme.madsparrow.me/most/?storefront=envato-elements)
+08:55:33	Error: 	"Not Found" (404) at link https://theme.madsparrow.me/most/404 (from https://theme.madsparrow.me/most/?storefront=envato-elements)
+08:55:57	Warning: 	Found for https://theme.madsparrow.me/most/checkout/
+08:55:57	Warning: 	File has moved from https://theme.madsparrow.me/most/checkout/ to https://theme.madsparrow.me/most/cart/
+08:55:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=850
+08:55:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=850 to https://theme.madsparrow.me/most/home-portfolio/
+08:56:24	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=1107
+08:56:24	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=1107 to https://theme.madsparrow.me/most/personal-portfolio/
+08:56:24	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=1718
+08:56:24	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=1718 to https://theme.madsparrow.me/most/personal-cv/
+08:56:24	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=852
+08:56:24	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=852 to https://theme.madsparrow.me/most/creative-agency/
+08:56:24	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=856
+08:56:24	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=856 to https://theme.madsparrow.me/most/business-corporate/
+08:56:36	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=122
+08:56:36	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=122 to https://theme.madsparrow.me/most/blog-default/
+08:56:55	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=148
+08:56:55	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=148 to https://theme.madsparrow.me/most/blog-card/
+08:56:58	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=131
+08:56:58	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=131 to https://theme.madsparrow.me/most/blog-list/
+08:56:58	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=143
+08:56:58	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=143 to https://theme.madsparrow.me/most/blog-list-3/
+08:56:58	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=136
+08:56:58	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=136 to https://theme.madsparrow.me/most/blog-list-2/
+08:56:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=73
+08:56:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=73 to https://theme.madsparrow.me/most/list-style/
+08:56:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=104
+08:56:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=104 to https://theme.madsparrow.me/most/grid-standard/
+08:56:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=253
+08:56:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=253 to https://theme.madsparrow.me/most/grid-style-1/
+08:56:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=234
+08:56:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=234 to https://theme.madsparrow.me/most/grid-style-2/
+08:56:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=451
+08:56:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=451 to https://theme.madsparrow.me/most/grid-masonry/
+08:57:00	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=1962
+08:57:00	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=1962 to https://theme.madsparrow.me/most/about-us/
+08:57:00	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=2221
+08:57:00	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=2221 to https://theme.madsparrow.me/most/team/
+08:57:00	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=2333
+08:57:00	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=2333 to https://theme.madsparrow.me/most/image-gallery/
+08:57:00	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=2419
+08:57:00	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=2419 to https://theme.madsparrow.me/most/services/
+08:57:00	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=767
+08:57:00	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=767 to https://theme.madsparrow.me/most/contact/
+08:57:59	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=470
+08:57:59	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=470 to https://theme.madsparrow.me/most/product/run-max-88/
+08:58:08	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=283
+08:58:08	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=283 to https://theme.madsparrow.me/most/cart/
+08:58:08	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=285
+08:58:08	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=285 to https://theme.madsparrow.me/most/my-account/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=56
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=56 to https://theme.madsparrow.me/most/portfolios/freezing-birthday/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=55
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=55 to https://theme.madsparrow.me/most/portfolios/stream-shop/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=54
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=54 to https://theme.madsparrow.me/most/portfolios/random-risk/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=53
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=53 to https://theme.madsparrow.me/most/portfolios/share-spark/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=51
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=51 to https://theme.madsparrow.me/most/portfolios/wiggly-finger/
+08:58:11	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=50
+08:58:11	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=50 to https://theme.madsparrow.me/most/portfolios/subsequent-sneeze/
+08:58:12	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=49
+08:58:12	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=49 to https://theme.madsparrow.me/most/portfolios/color-current/
+08:58:12	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=48
+08:58:12	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=48 to https://theme.madsparrow.me/most/portfolios/justice-robot/
+08:58:12	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=47
+08:58:12	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=47 to https://theme.madsparrow.me/most/portfolios/the-dark-side/
+08:58:13	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=29
+08:58:13	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=29 to https://theme.madsparrow.me/most/ui-vs-ux-whats-the-difference/
+08:58:16	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=27
+08:58:16	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=27 to https://theme.madsparrow.me/most/ux-design-is-shifting-towards-realism/
+08:58:21	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=25
+08:58:21	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=25 to https://theme.madsparrow.me/most/best-tools-to-collect-design-inspiration-for-designers/
+08:58:21	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=21
+08:58:21	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=21 to https://theme.madsparrow.me/most/how-to-create-a-nft-project-and-get-a-6000000/
+08:58:21	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=18
+08:58:21	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=18 to https://theme.madsparrow.me/most/top-10-things-to-keep-in-mind/
+08:58:21	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=16
+08:58:21	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=16 to https://theme.madsparrow.me/most/the-biggest-design-trends-of-2022/
+08:58:22	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=476
+08:58:22	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=476 to https://theme.madsparrow.me/most/product/workout-revolution-2/
+08:58:23	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=478
+08:58:23	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=478 to https://theme.madsparrow.me/most/product/kl-17-bs/
+08:58:25	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=483
+08:58:25	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=483 to https://theme.madsparrow.me/most/product/flex-armour/
+08:58:27	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=481
+08:58:27	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=481 to https://theme.madsparrow.me/most/product/men-vision-trainers/
+08:58:28	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=485
+08:58:28	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=485 to https://theme.madsparrow.me/most/product/react-falcon-3-0/
+08:58:31	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/shop/page/1/
+08:58:31	Warning: 	File has moved from https://theme.madsparrow.me/most/shop/page/1/ to https://theme.madsparrow.me/most/shop/
+08:58:31	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=487
+08:58:31	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=487 to https://theme.madsparrow.me/most/product/summit-walking/
+08:59:04	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=12
+08:59:04	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=12 to https://theme.madsparrow.me/most/understand-the-background-of-design/
+08:59:04	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=14
+08:59:04	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=14 to https://theme.madsparrow.me/most/x-reasons-why-youll-love-wordpress/
+08:59:04	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/?p=1
+08:59:04	Warning: 	File has moved from https://theme.madsparrow.me/most/?p=1 to https://theme.madsparrow.me/most/hello-world/
+08:59:06	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/product-tag/life/page/1/
+08:59:06	Warning: 	File has moved from https://theme.madsparrow.me/most/product-tag/life/page/1/ to https://theme.madsparrow.me/most/product-tag/life/
+08:59:06	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/product-tag/move/page/1/
+08:59:06	Warning: 	File has moved from https://theme.madsparrow.me/most/product-tag/move/page/1/ to https://theme.madsparrow.me/most/product-tag/move/
+08:59:06	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/product-tag/sport/page/1/
+08:59:06	Warning: 	File has moved from https://theme.madsparrow.me/most/product-tag/sport/page/1/ to https://theme.madsparrow.me/most/product-tag/sport/
+08:59:06	Warning: 	Moved Permanently for https://theme.madsparrow.me/most/product-tag/trainers/page/1/
+08:59:06	Warning: 	File has moved from https://theme.madsparrow.me/most/product-tag/trainers/page/1/ to https://theme.madsparrow.me/most/product-tag/trainers/
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 35 seconds : 686 links scanned, 630 files written (37010574 bytes overall) [20732662 bytes received at 61888 bytes/sec], 20932749 bytes transferred using HTTP compression in 495 files, ratio 20%, 98.0 requests per connection
+(2 errors, 106 warnings, 0 messages)

@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theme.madsparrow.me	TRUE	/most/	FALSE	1999999999	woocommerce_items_in_cart	1
+theme.madsparrow.me	TRUE	/most/	FALSE	1999999999	wp_woocommerce_session_fadc9e66126a7ed0e9c02dbcba9ad921	t_6d0b397743a07aaef5d6b21481d6a9%7C%7C1726239338%7C%7C1726235738%7C%7Ca2e4721cde51db263de0f707ab34aa9f
+theme.madsparrow.me	TRUE	/most/	FALSE	1999999999	woocommerce_cart_hash	a33bf703ea02f36ce677d0facc9d72c0
+
